@@ -135,5 +135,4 @@ async function getFriendship() {
       '<a href="https://line.me/R/ti/p/@326uqxhp">Follow our chatbot here!</a>';
   }
   friendShip.innerHTML = msg;
-  
 }
